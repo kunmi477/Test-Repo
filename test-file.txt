@@ -1,0 +1,7 @@
+log 1234
+sin 4567
+cos 7890
+tan 0123
+xsin 3456
+xtan 6789
+xcos 9012
